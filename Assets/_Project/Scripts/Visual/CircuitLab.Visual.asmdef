@@ -1,0 +1,17 @@
+{
+    "name": "CircuitLab.Visual",
+    "rootNamespace": "CircuitLab.Visual",
+    "references": [
+        "CircuitLab.Core",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

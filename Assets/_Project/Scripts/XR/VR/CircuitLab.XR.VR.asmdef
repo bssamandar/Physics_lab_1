@@ -1,0 +1,27 @@
+{
+    "name": "CircuitLab.XR.VR",
+    "rootNamespace": "CircuitLab.XR.VR",
+    "references": [
+        "CircuitLab.Core",
+        "CircuitLab.Interaction",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "CIRCUITLAB_INPUTSYSTEM"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.4.0",
+            "define": "CIRCUITLAB_INPUTSYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}
